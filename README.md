@@ -1,4 +1,4 @@
-### Hi there 👋
+![Yijoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijoon009&show_icons=true&theme=buefy)
 
 <!--
 **yijoon009/yijoon009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
