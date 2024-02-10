@@ -1,5 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+yijoon's+GitHub!👋)](https://git.io/typing-svg)
 
+## 사이드 프로젝트 RECIPIA
+**레시피아 서비스**
+- 배포 URK (원스토어): https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774118
+- 소개 페이지 (노션): https://upbeat-willow-06b.notion.site/7ece9e5f602a43f583d7f4cf101e7d69?pvs=4
+
+
+
+## RECIPIA 소스코드 살펴보기
+- 멤버 백엔드 서버: https://github.com/Resipia/RECIPIA_MEMBER
+- 레시피 백엔드 서버: https://github.com/Resipia/RECIPIA_RECIPE
+- 안드로이드: https://github.com/Resipia/RECIPIA_ANDRIOID
+<br/>
+
+
+
 ### Available Skills 💪
 #### Languages
 <div>
