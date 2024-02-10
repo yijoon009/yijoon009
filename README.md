@@ -35,7 +35,7 @@
 ![Yijoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijoon009&show_icons=true&theme=buefy)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yijoon009&theme=buefy&bg_color=ffffff&hide_border=true&line=0000ff&color=0000ff" width="94%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yijoon009&theme=dracula&hide_border=true&line=0000ff&color=0000ff" width="94%"/>
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyijoon009&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
