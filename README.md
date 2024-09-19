@@ -2,19 +2,36 @@
 
 
 ### Available Skills 💪
+
 #### Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&amp;logo=json&amp;logoColor=white">
+</div>
+
+#### Databases
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=MongoDB&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white">
 </div>
 
 #### Tools
 <div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&amp;logo=Anaconda&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&amp;logo=Google Colab&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
 
+#### Frameworks
+<div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</div>
 <br>
 
 ![Yijoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijoon009&show_icons=true&theme=buefy)
